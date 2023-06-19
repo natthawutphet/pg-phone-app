@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+header ul li {
+  list-style: none;
+}
+.Header {
+  background-image: url('bg.gif');
+  background-attachment:fixed ;
+  width: 100%;
+}
+
+section {
+  background-color: #cdcdce;
+}
+Footer {
+  background-color: #6e7175;
+  color: rgb(0, 0, 0);
+}
+.img {
+  padding: 10px;
+  width: 90%;
+
+}
+
+button {
+  border: none;
+}
